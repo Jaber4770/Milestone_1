@@ -10,5 +10,14 @@ nav > ul > li > a{
 
 footer{
     text-align: center;
+
+}
+.pitha_Section{
+    margin: 20% 0%;
+    
+}
+label{
+    display: block;
+    margin-bottom: 10px;
     
 }
