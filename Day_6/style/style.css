@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 body {
     font-family: "Open Sans", sans-serif;
@@ -24,6 +28,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 .nav-title{
     color: black;
@@ -42,4 +47,17 @@ nav li {
 nav a{
     text-decoration: none;
     color: #474747;
+}
+
+/* header */
+.header-bg{
+    background-color: #ffe6d5;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner-pic{
+
 }
