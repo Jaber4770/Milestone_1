@@ -96,7 +96,13 @@ nav a{
 /* about section style */
 .about{
     padding: 130px 150px;
-    max-width: 700px;
+    max-width: 1140px;
     margin: 140px auto;
     background-color: #ffe6d5;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
 }
