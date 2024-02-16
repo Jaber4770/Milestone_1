@@ -77,9 +77,9 @@ nav a {
 /* header */
 .header-bg {
     background-color: #ffe6d5;
-    background-image: url(/Day_6/portfolio-resources/images/header_bg.png);
+    background-image: url(/Day_6/portfolio-resources/images/header_bg.png), url(/Day_6/portfolio-resources/images/developer.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 
 .banner {
