@@ -211,5 +211,7 @@ main section {
     margin-top: 15px;
     border-radius: 5px;
     outline: unset;
-    width: 250px;
+}
+.footer-contract input[type="text"], .footer-contract input[type="email"]{
+    width: 310px;
 }
